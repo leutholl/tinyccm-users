@@ -13,6 +13,7 @@ Release Notes:
 1.3 - Internal "in-between" release to tackle fader order
 
 1.4.1 - Public Beta to test any fader order and also introduce features to managed motorized DC faders
+1.4.2 - Public Beta as 1.4.1 but with newer MIDI library
 
 
 Registered customer can contact me for personal updated license file.
