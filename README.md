@@ -16,5 +16,6 @@ Release Notes:
 
 1.4.2 - Public Beta as 1.4.1 but with newer MIDI library
 
+1.4.3 - Public Beta as 1.4.2 but with no pingback patch
 
 Registered customer can contact me for personal updated license file.
