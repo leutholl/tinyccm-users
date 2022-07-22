@@ -18,4 +18,8 @@ Release Notes:
 
 1.4.3 - Public Beta as 1.4.2 but with no pingback patch
 
+1.4.4 - Patch for user with motorized DC masters
+
+2.0.0 - Public Beta for M1 compatibility (same functionality as the lower versions. No System Tray icons)
+
 Registered customer can contact me for personal updated license file.
